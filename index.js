@@ -7,6 +7,10 @@ app.use(cors());
 
 app.get('/', (req, res) => {
   res.send('the-recipe-room');
+});
+
+app.get('/news', (req, res) => {
+  res.send('okay!!!the-recipe-room');
 })
 
 app.listen(port, () => {
