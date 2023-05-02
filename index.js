@@ -5,7 +5,7 @@ const port = process.env.PORT || 5000
 
 app.use(cors());
 
-app.get('/', (req, res) => {git branch -M main
+app.get('/', (req, res) => {
   res.send('the-recipe-room');
 })
 
