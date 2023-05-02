@@ -5,11 +5,11 @@
     "years_of_experience": 15,
     "num_of_recipes": 100,
     "likes": 5000,
-    "chef_picture": "",
+    "chef_picture": "https://i.ibb.co/qpcmrBM/John.jpg",
     "recipes": [
       {
         "recipe_id": 1,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/ysT17q2/Classic-Lasagna.jpg",
         "recipe_name": "Classic Lasagna",
         "ingredients": [
           "Lasagna noodles",
@@ -23,7 +23,7 @@
       },
       {
         "recipe_id": 2,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/hLk3hyc/Beef-Wellington.jpg",
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "Beef tenderloin",
@@ -37,7 +37,7 @@
       },
       {
         "recipe_id": 3,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/CKSVSPm/Chicken-Parmesan.webp",
         "recipe_name": "Chicken Parmesan",
         "ingredients": [
           "Chicken breasts",
@@ -57,11 +57,11 @@
     "years_of_experience": 10,
     "num_of_recipes": 80,
     "likes": 3500,
-    "chef_picture": "",
+    "chef_picture": "https://i.ibb.co/ZcSFCDr/Chef-Maria.webp",
     "recipes": [
       {
         "recipe_id": 4,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/sVWCQzw/Roasted-Garlic-Mashed-Potatoes.jpg",
         "recipe_name": "Roasted Garlic Mashed Potatoes",
         "ingredients": [
           "Potatoes",
@@ -75,7 +75,7 @@
       },
       {
         "recipe_id": 5,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/MBTBnyL/Spinach-and-Feta-Stuffed-Chicken.webp",
         "recipe_name": "Spinach and Feta Stuffed Chicken",
         "ingredients": [
           "Chicken breasts",
@@ -89,7 +89,7 @@
       },
       {
         "recipe_id": 6,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/BVXdvGJ/Pesto-Pasta-Salad.jpg",
         "recipe_name": "Pesto Pasta Salad",
         "ingredients": [
           "Pasta",
@@ -109,11 +109,11 @@
     "years_of_experience": 30,
     "num_of_recipes": 200,
     "likes": 10000,
-    "chef_picture": "",
+    "chef_picture": "https://i.ibb.co/zFn4NZc/Gordon-Ramsay.jpg",
     "recipes": [
       {
         "recipe_id": 7,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/NTQvPGJ/New-York-Strip-Steak-with-Red-Wine-Sauce.jpg",
         "recipe_name": "New York Strip Steak with Red Wine Sauce",
         "ingredients": [
           "New York strip steak",
@@ -130,7 +130,7 @@
       },
       {
         "recipe_id": 8,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/tLGmDjr/Grilled-Salmon-with-Dill-Butter.jpg",
         "recipe_name": "Grilled Salmon with Dill Butter",
         "ingredients": [
           "Salmon fillet",
@@ -144,7 +144,7 @@
       },
       {
         "recipe_id": 9,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/6RXSKJ0/Beef-Burger.webp",
         "recipe_name": "Beef Burger",
         "ingredients": [
           "Ground beef",
@@ -164,11 +164,11 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
-    "chef_picture": "",
+    "chef_picture": "https://i.ibb.co/sWpn093/Bobby-Flay.jpg",
     "recipes": [
       {
         "recipe_id": 10,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/fQB39V1/Barbecue-Pork-Ribs.jpg",
         "recipe_name": "Barbecue Pork Ribs",
         "ingredients": [
           "Pork ribs",
@@ -184,7 +184,7 @@
       },
       {
         "recipe_id": 11,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/YNNZqYF/Mac-and-Cheese.jpg",
         "recipe_name": "Mac and Cheese",
         "ingredients": [
           "Elbow macaroni",
@@ -200,7 +200,7 @@
       },
       {
         "recipe_id": 12,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/QXtQjTW/Fried-Chicken.png",
         "recipe_name": "Fried Chicken",
         "ingredients": [
           "Chicken pieces",
@@ -222,11 +222,11 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
-    "chef_picture": "",
+    "chef_picture": "https://i.ibb.co/XC3Pvd8/Ina-Garten.jpg",
     "recipes": [
       {
         "recipe_id": 13,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/Rhv98Hm/Roast-Turkey.jpg",
         "recipe_name": "Roast Turkey",
         "ingredients": [
           "Turkey",
@@ -243,7 +243,7 @@
       },
       {
         "recipe_id": 14,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/j4d93Cf/Macaroni-and-Cheese.jpg",
         "recipe_name": "Macaroni and Cheese",
         "ingredients": [
           "Elbow macaroni",
@@ -260,19 +260,17 @@
       },
       {
         "recipe_id": 15,
-        "recipe_url": "",
-        "recipe_name": "Fried Chicken",
+        "recipe_url": "https://i.ibb.co/pyfcmM2/Grilled-Ribeye-Steak.jpg",
+        "recipe_name": "Grilled Ribeye Steak",
         "ingredients": [
-          "Chicken",
-          "Buttermilk",
-          "Flour",
-          "Paprika",
-          "Salt and pepper",
-          "Vegetable oil"
+        "Ribeye steak",
+        "Salt and pepper",
+        "Olive oil",
+        "Rosemary"
         ],
-        "cooking_method": "1. Soak chicken in buttermilk for at least 1 hour. 2. Mix flour, paprika, salt, and pepper in a bowl. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a skillet. 5. Fry chicken until golden brown and cooked through. 6. Drain on paper towels before serving.",
-        "rating": 4.8
-      }
+        "cooking_method": "1. Season steak with salt and pepper. 2. Brush with olive oil. 3. Grill over high heat until desired doneness. 4. Let rest for a few minutes before slicing. 5. Garnish with rosemary.",
+        "rating": 4.9
+        }
     ]
   },
   {
@@ -281,11 +279,11 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
-    "chef_picture": "",
+    "chef_picture": "https://i.ibb.co/4tFkPhN/Samantha-Lee.webp",
     "recipes": [
       {
         "recipe_id": 16,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/NV7Mv8S/Buttermilk-Fried-Chicken.jpg",
         "recipe_name": "Buttermilk Fried Chicken",
         "ingredients": [
           "Chicken pieces",
@@ -304,7 +302,7 @@
       },
       {
         "recipe_id": 17,
-        "recipe_url": "",
+        "recipe_url": "https://i.ibb.co/RD9GBDf/Shrimp-Scampi.jpg",
         "recipe_name": "Shrimp Scampi",
         "ingredients": [
           "Shrimp",
@@ -322,21 +320,21 @@
       },
       {
         "recipe_id": 18,
-        "recipe_url": "",
-        "recipe_name": "Macaroni and Cheese",
+        "recipe_url": "https://i.ibb.co/51StNHm/Lobster-Risotto.jpg",
+        "recipe_name": "Lobster Risotto",
         "ingredients": [
-          "Elbow macaroni",
-          "Butter",
-          "Flour",
-          "Milk",
-          "Cheddar cheese",
-          "Parmesan cheese",
-          "Salt",
-          "Pepper",
-          "Breadcrumbs"
+        "Lobster",
+        "Arborio rice",
+        "Shallot",
+        "Garlic",
+        "White wine",
+        "Chicken stock",
+        "Parmesan cheese",
+        "Butter",
+        "Chives"
         ],
-        "cooking_method": "1. Cook macaroni until al dente. 2. Make a roux by melting butter in a saucepan and whisking in flour. 3. Gradually add milk and whisk until thickened. 4. Add cheddar and Parmesan cheeses and stir until melted. 5. Season with salt and pepper. 6. Mix macaroni with cheese sauce and transfer to a baking dish. 7. Top with breadcrumbs. 8. Bake until golden brown and bubbly.",
-        "rating": 4.8
+        "cooking_method": "1. Cook lobster in boiling water for 8-10 minutes. 2. Remove meat from shells and set aside. 3. In a separate pot, sauté shallot and garlic in butter. 4. Add Arborio rice and cook until translucent. 5. Add white wine and cook until evaporated. 6. Gradually add chicken stock, stirring constantly, until rice is cooked. 7. Add Parmesan cheese and butter. 8. Serve risotto with lobster meat and chopped chives.",
+        "rating": 4.7
       }
     ]
   }
