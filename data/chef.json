@@ -5,6 +5,7 @@
     "years_of_experience": 15,
     "num_of_recipes": 100,
     "likes": 5000,
+    "description": "Chef John is an experienced chef with 15 years of culinary experience. He has created 100 delicious recipes that have satisfied many hungry stomachs.",
     "chef_picture": "https://i.ibb.co/qpcmrBM/John.jpg",
     "recipes": [
       {
@@ -57,6 +58,7 @@
     "years_of_experience": 10,
     "num_of_recipes": 80,
     "likes": 3500,
+    "description": "Chef Maria is a skilled chef with 10 years of experience and 80 unique recipes. Her delicious dishes have gained the appreciation of many, as evidenced by her impressive 3500 likes.",
     "chef_picture": "https://i.ibb.co/cw8L8fY/Chef-Maria.jpg",
     "recipes": [
       {
@@ -109,6 +111,7 @@
     "years_of_experience": 30,
     "num_of_recipes": 200,
     "likes": 10000,
+    "description": "Gordon Ramsay, a celebrated chef with 30 years of experience and over 200 recipes to his name, has garnered a massive following of 10,000 likes. Known for his fiery personality and expertise in the kitchen, Ramsay has become a household name in the culinary world.",
     "chef_picture": "https://i.ibb.co/zFn4NZc/Gordon-Ramsay.jpg",
     "recipes": [
       {
@@ -164,6 +167,7 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
+    "description": "Bobby Flay, a renowned American chef, boasts of 25 years of experience in the culinary industry. With over 150 delicious recipes under his belt, he has gained immense popularity among food enthusiasts worldwide, amassing over 8000 likes.",
     "chef_picture": "https://i.ibb.co/sWpn093/Bobby-Flay.jpg",
     "recipes": [
       {
@@ -222,6 +226,7 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
+    "description": "Ina Garten is a celebrated American chef, cookbook author, and TV host with over 25 years of experience in the culinary industry. Her impressive collection of 150 recipes features classic dishes with a modern twist that are easy to prepare at home.",
     "chef_picture": "https://i.ibb.co/XC3Pvd8/Ina-Garten.jpg",
     "recipes": [
       {
@@ -263,15 +268,15 @@
         "recipe_url": "https://i.ibb.co/pyfcmM2/Grilled-Ribeye-Steak.jpg",
         "recipe_name": "Grilled Ribeye Steak",
         "ingredients": [
-        "Ribeye steak",
-        "Salt and pepper",
-        "Olive oil",
-        "Rosemary",
-        "Garlic"
+          "Ribeye steak",
+          "Salt and pepper",
+          "Olive oil",
+          "Rosemary",
+          "Garlic"
         ],
         "cooking_method": "1. Season steak with salt and pepper. 2. Brush with olive oil. 3. Grill over high heat until desired doneness. 4. Let rest for a few minutes before slicing. 5. Garnish with rosemary.",
         "rating": 4.9
-        }
+      }
     ]
   },
   {
@@ -280,6 +285,7 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
+    "description": "Samantha Lee is a renowned chef with 25 years of experience in the culinary world. She has crafted 150 delectable recipes that have won over the hearts and stomachs of many. Her innovative and unique style of cooking has earned her a loyal following of food enthusiasts who eagerly await her next creation",
     "chef_picture": "https://i.ibb.co/4tFkPhN/Samantha-Lee.webp",
     "recipes": [
       {
@@ -324,15 +330,15 @@
         "recipe_url": "https://i.ibb.co/51StNHm/Lobster-Risotto.jpg",
         "recipe_name": "Lobster Risotto",
         "ingredients": [
-        "Lobster",
-        "Arborio rice",
-        "Shallot",
-        "Garlic",
-        "White wine",
-        "Chicken stock",
-        "Parmesan cheese",
-        "Butter",
-        "Chives"
+          "Lobster",
+          "Arborio rice",
+          "Shallot",
+          "Garlic",
+          "White wine",
+          "Chicken stock",
+          "Parmesan cheese",
+          "Butter",
+          "Chives"
         ],
         "cooking_method": "1. Cook lobster in boiling water for 8-10 minutes. 2. Remove meat from shells and set aside. 3. In a separate pot, sauté shallot and garlic in butter. 4. Add Arborio rice and cook until translucent. 5. Add white wine and cook until evaporated. 6. Gradually add chicken stock, stirring constantly, until rice is cooked. 7. Add Parmesan cheese and butter. 8. Serve risotto with lobster meat and chopped chives.",
         "rating": 4.7
