@@ -3,8 +3,8 @@
     "chef_id": 1,
     "chef_name": "Chef John",
     "years_of_experience": 15,
-    "num_of_recipes": 100,
-    "likes": 5000,
+    "num_of_recipes": 73,
+    "likes": 2100,
     "description": "Chef John is an experienced chef with 15 years of culinary experience. He has created 100 delicious recipes that have satisfied many hungry stomachs.",
     "chef_picture": "https://i.ibb.co/qpcmrBM/John.jpg",
     "recipes": [
@@ -57,7 +57,7 @@
     "chef_name": "Chef Maria",
     "years_of_experience": 10,
     "num_of_recipes": 80,
-    "likes": 3500,
+    "likes": 2700,
     "description": "Chef Maria is a skilled chef with 10 years of experience and 80 unique recipes. Her delicious dishes have gained the appreciation of many, as evidenced by her impressive 3500 likes.",
     "chef_picture": "https://i.ibb.co/cw8L8fY/Chef-Maria.jpg",
     "recipes": [
@@ -110,7 +110,7 @@
     "chef_name": "Gordon Ramsay",
     "years_of_experience": 30,
     "num_of_recipes": 200,
-    "likes": 10000,
+    "likes": 9200,
     "description": "Gordon Ramsay, a celebrated chef with 30 years of experience and over 200 recipes to his name, has garnered a massive following of 10,000 likes. Known for his fiery personality and expertise in the kitchen, Ramsay has become a household name in the culinary world.",
     "chef_picture": "https://i.ibb.co/zFn4NZc/Gordon-Ramsay.jpg",
     "recipes": [
@@ -164,9 +164,9 @@
   {
     "chef_id": 4,
     "chef_name": "Bobby Flay",
-    "years_of_experience": 25,
+    "years_of_experience": 19,
     "num_of_recipes": 150,
-    "likes": 8000,
+    "likes": 7300,
     "description": "Bobby Flay, a renowned American chef, boasts of 25 years of experience in the culinary industry. With over 150 delicious recipes under his belt, he has gained immense popularity among food enthusiasts worldwide, amassing over 8000 likes.",
     "chef_picture": "https://i.ibb.co/sWpn093/Bobby-Flay.jpg",
     "recipes": [
@@ -223,9 +223,9 @@
   {
     "chef_id": 5,
     "chef_name": "Ina Garten",
-    "years_of_experience": 25,
+    "years_of_experience": 21,
     "num_of_recipes": 150,
-    "likes": 8000,
+    "likes": 3800,
     "description": "Ina Garten is a celebrated American chef, cookbook author, and TV host with over 25 years of experience in the culinary industry. Her impressive collection of 150 recipes features classic dishes with a modern twist that are easy to prepare at home.",
     "chef_picture": "https://i.ibb.co/XC3Pvd8/Ina-Garten.jpg",
     "recipes": [
@@ -284,7 +284,7 @@
     "chef_name": "Samantha Lee",
     "years_of_experience": 25,
     "num_of_recipes": 150,
-    "likes": 8000,
+    "likes": 4700,
     "description": "Samantha Lee is a renowned chef with 25 years of experience in the culinary world. She has crafted 150 delectable recipes that have won over the hearts and stomachs of many. Her innovative and unique style of cooking has earned her a loyal following of food enthusiasts who eagerly await her next creation",
     "chef_picture": "https://i.ibb.co/4tFkPhN/Samantha-Lee.webp",
     "recipes": [
